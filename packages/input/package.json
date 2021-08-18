@@ -1,5 +1,5 @@
 {
-  "name": "lg-inputab",
+  "name": "lg-inputa",
   "version": "0.0.3",
   "description": "",
   "main": "dist/cjs/index.js",
@@ -14,5 +14,5 @@
   "dependencies": {
     "lodash": "3"
   },
-  "gitHead": "dc87a0dcb49821e1dbf1f335a195a6b9539f4153"
+  "gitHead": "80f13ea056c5a6f92118ddc5be870083eb6eac0c"
 }
