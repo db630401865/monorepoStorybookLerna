@@ -1,7 +1,7 @@
 <template>
   <div>
     <button @click="handleClick"><slot></slot></button>
-    12
+    123
   </div>
 </template>
 
