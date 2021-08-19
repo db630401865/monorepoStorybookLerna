@@ -1,6 +1,6 @@
 {
   "name": "lg-link-m",
-  "version": "0.0.10",
+  "version": "0.0.11",
   "description": "lg-link component",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
