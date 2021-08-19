@@ -7,7 +7,8 @@
   "author": "教瘦 <54337467@qq.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "del": "rimraf dist"
   },
   "keywords": [],
   "gitHead": "f5ad8b99f22931b16bc863e6e002c1081756f9ec"

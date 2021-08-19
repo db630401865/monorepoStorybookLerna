@@ -7,7 +7,7 @@ module.exports = [
     output: [
       {
         file: 'dist/index.js',
-        format: 'es'
+        format: 'es'  //设置es6的打包方式
       }
     ],
     plugins: [

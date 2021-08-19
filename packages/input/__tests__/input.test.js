@@ -23,6 +23,8 @@ describe('lg-input', () => {
         value: 'admin'
       }
     })
+    //生成属性props的value值。
+    //使用toBe判断props的value值是否是admin
     expect(wrapper.props('value')).toBe('admin')
   })
 
@@ -33,6 +35,7 @@ describe('lg-input', () => {
         value: 'admin'
       }
     })
+    //第一次调用的时候生成一个快照文件__snapshots__，第二次运行的时候就会和快照的文件对比
     expect(wrapper.vm.$el).toMatchSnapshot()
   })
 })
