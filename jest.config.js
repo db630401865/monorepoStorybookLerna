@@ -11,5 +11,6 @@ module.exports = {
     ".*\\.(vue)$": "vue-jest",
     // 用 `babel-jest` 处理 js
     ".*\\.(js)$": "babel-jest" 
-  }
+  },
+  testEnvironment:"jsdom"
 }
